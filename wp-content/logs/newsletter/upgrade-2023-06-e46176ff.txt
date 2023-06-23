@@ -1,0 +1,56 @@
+21-06-2023 16:18:01 - INFO  - 7.8.5 - 46.3 MB/512 MB - gym > Start upgrade from 0.0.0
+21-06-2023 16:18:02 - INFO  - 7.8.5 - 48.9 MB/512 MB - gym > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+21-06-2023 16:18:02 - INFO  - 7.8.5 - 48.9 MB/512 MB - gym > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+21-06-2023 16:18:02 - INFO  - 7.8.5 - 48.9 MB/512 MB - gym > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+21-06-2023 16:18:03 - INFO  - 7.8.5 - 48.9 MB/512 MB - gym > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+21-06-2023 16:18:03 - INFO  - 7.8.5 - 48.9 MB/512 MB - gym > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+21-06-2023 16:18:03 - INFO  - 7.8.5 - 48.9 MB/512 MB - gym > Backing up options of 0.0.0
+21-06-2023 16:18:03 - INFO  - 7.8.5 - 48.9 MB/512 MB - gym > End
+22-06-2023 16:23:42 - INFO  - 7.8.6 - 44.6 MB/512 MB - [cron] > Start upgrade from 7.8.5
+22-06-2023 16:23:42 - INFO  - 7.8.6 - 48.1 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+22-06-2023 16:23:42 - INFO  - 7.8.6 - 48.1 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+22-06-2023 16:23:42 - INFO  - 7.8.6 - 48.1 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+22-06-2023 16:23:42 - INFO  - 7.8.6 - 48.1 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+22-06-2023 16:23:42 - INFO  - 7.8.6 - 48.1 MB/512 MB - [cron] > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+22-06-2023 16:23:42 - INFO  - 7.8.6 - 48.1 MB/512 MB - [cron] > Backing up options of 7.8.5
+22-06-2023 16:23:42 - INFO  - 7.8.6 - 48.1 MB/512 MB - [cron] > End
